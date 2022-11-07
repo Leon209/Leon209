@@ -17,6 +17,9 @@
   <a href="https://git-scm.com">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=vim" />
+  </a>
 </p>
 
 ***
