@@ -5,6 +5,9 @@
 
 ### Languages and Tools
 <p align="left">
+  <a href="https://www.vim.org">
+    <img src="https://skillicons.dev/icons?i=vim" />
+  </a>
   <a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
@@ -16,9 +19,6 @@
   </a>
   <a href="https://git-scm.com">
     <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://git-scm.com">
-    <img src="https://skillicons.dev/icons?i=vim" />
   </a>
 </p>
 
