@@ -1,5 +1,6 @@
 ## Hi, I’m @Leon209 👋 
 -  I’m interested in Computer Science and Finance
+-  M.Sc. Information System TUM
 -  B.Sc. Business Informatics at the University of Mannheim
 ***
 
