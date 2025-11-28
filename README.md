@@ -1,5 +1,5 @@
 ## Hi, I’m @Leon209 👋 
--  M.Sc. Information System TUM
+-  M.Sc. Information System at Technical University Munich
 -  B.Sc. Business Informatics at the University of Mannheim
 ***
 ### Connect with me
